@@ -6,19 +6,19 @@ import Image from "next/image";
 
 const socials = [
   {
-    image: "/images/pro1.png",
+    image: "/images/pro3.png",
     href: "https://brainup-three.vercel.app/",
     label: "Brain Up",
     handle: "Game App",
   },
   {
-    image: "/images/pro2.png",
+    image: "/images/pro1.png",
     href: "flexfashion.vercel.app",
     label: "Window Simulation",
     handle: "Web App",
   },
   {
-    image: "/images/pro3.png",
+    image: "/images/pro2.png",
     href: "https://flexfashion.vercel.app",
     label: "Flex Fashion",
     handle: "Shop",
